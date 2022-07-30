@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-image: url(bg.png);
+}
+#status, #objf{
+    padding-left: 70px;
+    color:gray;
+}
+canvas{
+    border-radius: 10px;
+   
+    box-shadow: 7px 7px 7px white;
+}
+#startbtn{
+    top:50px;
+
+cursor:pointer;
+width:70px; height:70px;
+}
